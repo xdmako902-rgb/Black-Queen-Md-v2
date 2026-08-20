@@ -8,7 +8,7 @@
     "dev": "nodemon pair.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys":"npm:amiudmodz",
+    "@whiskeysockets/baileys": "npm:amiudmodz",
     "sharp": "^0.34.0",
     "axios": "^1.6.0",
     "express": "^4.18.2",
@@ -33,7 +33,8 @@
     "dxz-ytdl": "latest",
     "denethdev-ytmp3": "latest",
     "darksadas-yt-pornhub-scrape": "latest",
-    "@spinzaf/freefire-api": "latest"
+    "@spinzaf/freefire-api": "latest",
+    "google-tts-api": "^0.0.4"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
